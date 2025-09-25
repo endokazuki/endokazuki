@@ -54,13 +54,6 @@
 
 </div>
 
-## 🐍 Contribution Snake
-<div align="center">
-
-![Snake animation](https://github.com/endokazuki/endokazuki/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ## 💻 Technical Experience
 
 ### Backend Development (Ruby on Rails)
