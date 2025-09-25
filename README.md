@@ -57,27 +57,33 @@
 
 </div>
 
-## 🚀 Professional Experience
+## 🚀 Technical Experience
 
-### 💼 Enterprise Projects
-- **[CoeTeco College](https://github.com/gmo-media/ReEdu.Server)** - Ruby on Rails online learning platform
-  - 🎓 Live course management system with real-time attendance tracking
-  - 👥 Multi-role interface (Admin/Teacher/Student/School)
-  - 📊 Advanced analytics and reporting features
-  - 🔧 Automated testing with GitHub Actions CI/CD
+### 💻 Web Application Development
+- **Ruby on Rails** full-stack development
+  - 🎓 Online learning platform with live course management
+  - 👥 Multi-role authentication system (Admin/Teacher/Student)
+  - 📊 Real-time attendance tracking and analytics
+  - 🔧 Automated testing with CI/CD pipelines
 
-- **[CoeTeco Platform](https://github.com/gmo-media/Coeteco.Server)** - Main programming education platform
-  - 🌐 Large-scale web application serving thousands of users
-  - ⚙️ CircleCI integration for continuous deployment
-  - 🏗️ Microservices architecture with GCP integration
-  - 📱 Frontend-backend separation with modern tech stack
+- **Large-scale Web Applications**
+  - 🌐 High-traffic web applications serving thousands of users
+  - ⚙️ Microservices architecture design
+  - 🏗️ Frontend-backend API development
+  - 📱 Responsive web design implementation
 
 ### ☁️ Infrastructure & DevOps
-- **[AWS Infrastructure Management](https://github.com/gmo-media/College.Tofu)** - OpenTofu/Terraform infrastructure as code
-  - 🛠️ Lambda function management and automation
-  - 🔐 ACM certificate management with Route 53 DNS validation
-  - 📦 AWS DataSync for cross-environment data synchronization
-  - 🏗️ Multi-environment deployment (prod/staging) architecture
+- **AWS Cloud Infrastructure**
+  - 🛠️ Lambda function development and automation
+  - 🔐 SSL certificate management with DNS validation
+  - 📦 Cross-environment data synchronization solutions
+  - 🏗️ Multi-environment deployment strategies (production/staging)
+
+- **Infrastructure as Code**
+  - 📜 Terraform/OpenTofu for infrastructure automation
+  - 🔄 Automated deployment pipelines
+  - 🐳 Docker containerization
+  - 📊 Monitoring and logging implementation
 
 ## 🚀 Personal Projects
 - [endoanalysis](https://github.com/endokazuki/endoanalysis) - 📊 Data Analysis Projects with Python
