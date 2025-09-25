@@ -26,24 +26,10 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
 
-<!-- Primary GitHub Stats with cache bypass -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endokazuki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=Kazuki%27s%20GitHub%20Stats&cache_seconds=1800)
-
-<!-- Alternative stats provider for comparison -->
-![GitHub Stats Alternative](https://stats.dooboo.io/api/github-stats-advanced?login=endokazuki)
-
-<!-- Detailed streak stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=endokazuki&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=58A6FF&dates=C9D1D9)
-
-</div>
-
-<div align="center">
-
-<!-- Top languages with more details -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endokazuki&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&hide=html,css&exclude_repo=endokazuki,ReEdu.Server&cache_seconds=1800)
 
 </div>
@@ -51,14 +37,7 @@
 ## 🏆 GitHub Achievements
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=endokazuki&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
-## 📈 Contribution Activity
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=endokazuki&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=endokazuki&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 </div>
 
