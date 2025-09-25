@@ -5,20 +5,29 @@
 - 💻 Building projects with **Flask** and **Machine Learning**  
 - 📚 Exploring data analysis and AI applications
 - 🎯 Working on personal projects to strengthen my programming skills
+- 🏢 Contributing to enterprise-level web applications and infrastructure
 
 ## ⚡ Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 ### Frameworks & Libraries
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ### Tools & Technologies  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -48,7 +57,29 @@
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Professional Experience
+
+### 💼 Enterprise Projects
+- **[CoeTeco College](https://github.com/gmo-media/ReEdu.Server)** - Ruby on Rails online learning platform
+  - 🎓 Live course management system with real-time attendance tracking
+  - 👥 Multi-role interface (Admin/Teacher/Student/School)
+  - 📊 Advanced analytics and reporting features
+  - 🔧 Automated testing with GitHub Actions CI/CD
+
+- **[CoeTeco Platform](https://github.com/gmo-media/Coeteco.Server)** - Main programming education platform
+  - 🌐 Large-scale web application serving thousands of users
+  - ⚙️ CircleCI integration for continuous deployment
+  - 🏗️ Microservices architecture with GCP integration
+  - 📱 Frontend-backend separation with modern tech stack
+
+### ☁️ Infrastructure & DevOps
+- **[AWS Infrastructure Management](https://github.com/gmo-media/College.Tofu)** - OpenTofu/Terraform infrastructure as code
+  - 🛠️ Lambda function management and automation
+  - 🔐 ACM certificate management with Route 53 DNS validation
+  - 📦 AWS DataSync for cross-environment data synchronization
+  - 🏗️ Multi-environment deployment (prod/staging) architecture
+
+## 🚀 Personal Projects
 - [endoanalysis](https://github.com/endokazuki/endoanalysis) - 📊 Data Analysis Projects with Python
 - [deep_leaning](https://github.com/endokazuki/deep_leaning) - 🧠 Deep Learning Learning Journey  
 - [flaskpractice](https://github.com/endokazuki/flaskpractice) - 🌐 Flask Web Application Practice
