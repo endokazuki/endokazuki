@@ -5,6 +5,7 @@
 - 💻 Building projects with **Flask** and **Machine Learning**  
 - 📚 Exploring data analysis and AI applications
 - 🎯 Working on personal projects to strengthen my programming skills
+- 🏢 Contributing to production web applications and infrastructure
 
 ## ⚡ Skills
 
@@ -21,6 +22,11 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ### Tools & Technologies  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -49,6 +55,32 @@
 ![Snake animation](https://github.com/endokazuki/endokazuki/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+## 💻 Technical Experience
+
+### Ruby on Rails Development
+- **Dynamic UI Components**: Implemented responsive form validation with real-time character counting
+- **Multilingual Support**: Built dynamic text display systems for different content types 
+- **Form Enhancement**: Developed comprehensive form validation with user feedback mechanisms
+- **Database Integration**: Worked with MySQL databases and ActiveRecord ORM
+- **MVC Architecture**: Built controllers, views, and models following Rails conventions
+
+### Performance Optimization
+- **Caching Strategies**: Implemented and optimized application caching systems
+- **Cache Management**: Reduced excessive caching to improve application performance
+- **Database Query Optimization**: Optimized database queries for better response times
+
+### Infrastructure as Code
+- **AWS Lambda Management**: Configured and deployed serverless functions
+- **Terraform/OpenTofu**: Managed cloud infrastructure with Infrastructure as Code
+- **Environment Configuration**: Set up development and production environment variables
+- **IAM Roles & Policies**: Configured AWS security permissions and access controls
+
+### Frontend Development
+- **Responsive Design**: Built mobile and desktop-compatible user interfaces
+- **JavaScript Integration**: Enhanced user experience with client-side interactions
+- **Dynamic Content**: Implemented conditional rendering based on user data
+- **Form Validation**: Created real-time validation feedback systems
 
 ## 🚀 Personal Projects
 - [endoanalysis](https://github.com/endokazuki/endoanalysis) - 📊 Data Analysis Projects with Python
