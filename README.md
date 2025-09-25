@@ -30,29 +30,35 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=endokazuki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+<!-- Primary GitHub Stats with cache bypass -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endokazuki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=Kazuki%27s%20GitHub%20Stats&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=endokazuki&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=58A6FF)
+<!-- Alternative stats provider for comparison -->
+![GitHub Stats Alternative](https://stats.dooboo.io/api/github-stats-advanced?login=endokazuki)
+
+<!-- Detailed streak stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=endokazuki&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=58A6FF&dates=C9D1D9)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endokazuki&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css)
+<!-- Top languages with more details -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endokazuki&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&hide=html,css&exclude_repo=endokazuki,ReEdu.Server&cache_seconds=1800)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=endokazuki&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=endokazuki&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=endokazuki&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=endokazuki&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph)
 
 </div>
 
@@ -68,20 +74,23 @@
 - [deep_leaning](https://github.com/endokazuki/deep_leaning) - 🧠 Deep Learning Learning Journey  
 - [flaskpractice](https://github.com/endokazuki/flaskpractice) - 🌐 Flask Web Application Practice
 
+## 💡 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📫 Connect with me
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/endokazuki)
-
-</div>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=endokazuki&label=Profile%20views&color=0e75b6&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=endokazuki&label=Profile%20Views&color=58A6FF&style=for-the-badge)](https://github.com/endokazuki)
 
 </div>
 
 ---
 <div align="center">
-⭐ From <a href="https://github.com/endokazuki">endokazuki</a>
+
+### 💭 "*Learning never stops - every commit is a step forward.*"
+
+⭐ From **[endokazuki](https://github.com/endokazuki)**
+
 </div>
