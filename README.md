@@ -5,7 +5,6 @@
 - 💻 Building projects with **Flask** and **Machine Learning**  
 - 📚 Exploring data analysis and AI applications
 - 🎯 Working on personal projects to strengthen my programming skills
-- 🏢 Contributing to enterprise-level web applications and infrastructure
 
 ## ⚡ Skills
 
@@ -22,12 +21,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ### Tools & Technologies  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -56,34 +49,6 @@
 ![Snake animation](https://github.com/endokazuki/endokazuki/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-## 🚀 Technical Experience
-
-### 💻 Web Application Development
-- **Ruby on Rails** full-stack development
-  - 🎓 Online learning platform with live course management
-  - 👥 Multi-role authentication system (Admin/Teacher/Student)
-  - 📊 Real-time attendance tracking and analytics
-  - 🔧 Automated testing with CI/CD pipelines
-
-- **Large-scale Web Applications**
-  - 🌐 High-traffic web applications serving thousands of users
-  - ⚙️ Microservices architecture design
-  - 🏗️ Frontend-backend API development
-  - 📱 Responsive web design implementation
-
-### ☁️ Infrastructure & DevOps
-- **AWS Cloud Infrastructure**
-  - 🛠️ Lambda function development and automation
-  - 🔐 SSL certificate management with DNS validation
-  - 📦 Cross-environment data synchronization solutions
-  - 🏗️ Multi-environment deployment strategies (production/staging)
-
-- **Infrastructure as Code**
-  - 📜 Terraform/OpenTofu for infrastructure automation
-  - 🔄 Automated deployment pipelines
-  - 🐳 Docker containerization
-  - 📊 Monitoring and logging implementation
 
 ## 🚀 Personal Projects
 - [endoanalysis](https://github.com/endokazuki/endoanalysis) - 📊 Data Analysis Projects with Python
