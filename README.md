@@ -53,10 +53,6 @@
 - [deep_leaning](https://github.com/endokazuki/deep_leaning) - 🧠 Deep Learning Learning Journey  
 - [flaskpractice](https://github.com/endokazuki/flaskpractice) - 🌐 Flask Web Application Practice
 
-## 💡 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 📫 Connect with me
 <div align="center">
 
